@@ -13,5 +13,5 @@ Based on [mxstbr's react boilerplate](http://www.reactboilerplate.com/ ).
     cd ratelooms.com
     npm run setup
     npm run start
-
+   
    Open localhost:3000
